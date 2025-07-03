@@ -1,3 +1,7 @@
 first_name,last_name,company,title
 Ballan,Agrandian,Boots.lore,Protagonist
+<<<<<<< HEAD
 sam,ctrlman,closedai
+=======
+sam,ctrlman,closedai,founder
+>>>>>>> 51fa8eb (banned: change title to founder)
